@@ -1,6 +1,6 @@
 # Hi, I'm Gilbert ( ͡❛ ͜ʖ ͡❛)
 
-I'm a **FullStack Software Engineer**, currently focused on web development and **API** construction both **REST** and **Graphql**, using the set of tools based on javascript, such as: **Node.js**, **React.js**, **Next.js**.
+I'm a **DevOps & FullStack Software Engineer**, currently focused on DevOps, web development and **API** construction both **REST** and **Graphql**, using the set of tools based on javascript, such as: **Node.js**, **React.js**, **Next.js**.
 
 <!--
 **gilans/gilans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
